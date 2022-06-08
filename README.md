@@ -18,3 +18,5 @@
  <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=wablopilson&show_icons=true&theme=radical" />
  <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wablopilson&theme=radical&layout=compact" />
 </div>
+
+<img src="https://www.codewars.com/users/wablopilson/badges/large" alt="Codewars"/>
