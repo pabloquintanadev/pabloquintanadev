@@ -3,7 +3,8 @@
 
 
 
-<h3><a href="https://www.linkedin.com/in/pabloquintana19/" target="blank"><img align="center" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="joetancy" height="40" width="40" /></a></h3>
+<h3><a href="https://www.linkedin.com/in/pabloquintana19/" target="blank"><img align="center" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="joetancy" height="40" width="40" /></a>
+<a href="mailto:pablo.quintana.dev@gmail.com" target="blank"><img align="center" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png" alt="E-amil" height="40" width="40" /></a></h3>
 
 
 
