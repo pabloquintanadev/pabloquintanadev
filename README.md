@@ -3,7 +3,10 @@
 
 
 
-<h3><a href="https://www.linkedin.com/in/pabloquintana19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joetancy" height="40" width="40" /></a></h3>
+<h3><a href="https://www.linkedin.com/in/pabloquintana19/" target="blank"><img align="center" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="joetancy" height="40" width="40" /></a></h3>
+
+
+
 
 <hr>
 
