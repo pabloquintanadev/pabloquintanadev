@@ -29,8 +29,7 @@
 
 ### Learning
 
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" alt="python" width="40">
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557294/noticon/uadhcwuyrgxksewdvuyf.png" alt="angular" width="40">
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" alt="python" width="40"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557294/noticon/uadhcwuyrgxksewdvuyf.png" alt="angular" width="40">
 
 
 
