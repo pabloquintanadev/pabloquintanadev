@@ -13,8 +13,8 @@
 
 ### 🛠 &nbsp; Tech Stack
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568683636/noticon/hkuhbyocl2mx2keas7ng.png" alt="r" width="40"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557264/noticon/eyhvbmh82nhdoydl4j2a.png" width="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png" alt="typescript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557264/noticon/eyhvbmh82nhdoydl4j2a.png" width="40"> 
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40">
 <img src="https://www.samuelathanas.com/images/skills/backend/express.png" alt="express" width="40">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913255/noticon/xbroxmdmksvebf3v6v8v.gif" width="40"> 
@@ -27,13 +27,20 @@
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"> 
 
 
+### Learning
+
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" alt="python">
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557294/noticon/uadhcwuyrgxksewdvuyf.png" alt="angular">
+
+
+
 
 
 <hr>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=wablopilson&show_icons=true&theme=radical" />
- <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wablopilson&theme=radical&layout=compact" />
+ <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=pabloquintanadev&show_icons=true&theme=radical" />
+ <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloquintanadev&theme=radical&layout=compact" />
 </div>
 
 <img src="https://www.codewars.com/users/wablopilson/badges/large" alt="Codewars"/>
