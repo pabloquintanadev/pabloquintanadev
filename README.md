@@ -6,7 +6,15 @@
 <h3><a href="https://www.linkedin.com/in/pabloquintana19/" target="blank"><img align="center" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="joetancy" height="40" width="40" /></a>
 <a href="mailto:pablo.quintana.dev@gmail.com" target="blank"><img align="center" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png" alt="E-amil" height="40" width="40" /></a></h3>
 
+<hr>
 
+**Some of my work**
+
+• **SCENA** : [app](https://scena.netlify.app/) | [client side code](https://github.com/clarapardo-ironhack/scena_client2) | [server side code](https://github.com/pabloquintanadev/SCENA_server)
+
+• **MASTERHSIT** : [app](https://mastershit.herokuapp.com/) | [code](https://github.com/pabloquintanadev/Expectations-VS-Reality)  
+
+• **Guardians of the Galaxy** :  [code](https://github.com/pabloquintanadev/GuardiansOfGalaxy_IronGame)
 
 
 <hr>
