@@ -10,6 +10,8 @@
 
 **Some of my work**
 
+• **Testing Next13 (Diary)** Typescript | Next.JS | Pocketbase | Tailwind : [code](https://github.com/pabloquintanagamma/testingNext13)
+
 • **SCENA** : [app](https://scena.netlify.app/) | [client side code](https://github.com/clarapardo-ironhack/scena_client2) | [server side code](https://github.com/pabloquintanadev/SCENA_server)
 
 • **MASTERHSIT** : [app](https://mastershit.herokuapp.com/) | [code](https://github.com/pabloquintanadev/Expectations-VS-Reality)  
